@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb6c885a-c2a4-4f64-89de-46f87ded5d84" name="Default Changelist" comment="" />
+    <list default="true" id="bb6c885a-c2a4-4f64-89de-46f87ded5d84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,6 +181,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1639193692864" />
+    <state x="890" y="563" width="672" height="678" key="search.everywhere.popup" timestamp="1639469392181">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="890" y="563" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1080.0.1080.1880@0.0.2560.1400" timestamp="1639469392181" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

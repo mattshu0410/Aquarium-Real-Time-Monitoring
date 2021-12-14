@@ -1,0 +1,2 @@
+Domain: vpc-water-metrics-os-7stp3sy3cdjkenvn677dceu7p4.ap-southeast-2.es.amazonaws.com:443
+Port: 9200

@@ -218,6 +218,7 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+<<<<<<< Updated upstream
           <option value="W29" />
           <option value="E501" />
           <option value="W29" />
@@ -228,6 +229,8 @@
           <option value="E501" />
           <option value="W29" />
           <option value="E501" />
+=======
+>>>>>>> Stashed changes
         </list>
       </option>
     </inspection_tool>
