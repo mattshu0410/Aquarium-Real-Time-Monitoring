@@ -16,5 +16,5 @@ There is potential to extend this to connection with other IoT aquarium maintena
 
 ## Infographics
 
-![image](/res/Infographic.png)
+![image](/presentation/Infographic.png)
 ![image](/presentation/aws-architecture.png)
