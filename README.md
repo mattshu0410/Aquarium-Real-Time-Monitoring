@@ -1,4 +1,4 @@
-# Aquarium-Real-Time-Monitoring
+# Aquarium Real Time Monitoring
 
 ## STEM Leaders Program
 
